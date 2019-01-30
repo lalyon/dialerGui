@@ -6,8 +6,17 @@ color: white;
 float: left;
 border: 5px;
 cursor: pointer;
+margin-right: 5px;
 padding: 14px 4px;
 font-size: 17px;
+}
+
+.tab_btn:hover {
+  background-color: #000;
+}
+
+.tab_btn:focus {
+  background-color: #eee;
 }
 
 .tab_bar{
