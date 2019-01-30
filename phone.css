@@ -1,0 +1,54 @@
+/* Style the tab */
+.tab_btn {
+  width: 33%;
+  background-color: #555;
+color: white;
+float: left;
+border: none;
+outline: none;
+cursor: pointer;
+padding: 14px 16px;
+font-size: 17px;
+}
+
+.tab_bar{
+  overflow: hidden;
+
+}
+
+#telephone_number {
+  width: 350px;
+  padding: 15px;
+  font-size: 22px;
+}
+
+.txt {
+  position: relative;
+  float: left;
+  border-radius: 25px;
+  border: 16px solid #fff;
+  padding: 36px;
+  font-size: 30px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
+
+.dialer_fn_btn {
+  position: relative;
+  float: left;
+  border-radius: 25px;
+  border: 16px solid #fff;
+  padding: 36px;
+  font-size: 30px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
+
+.num_row {
+min-width: 1600px;
+ overflow: hidden;
+}
+
+.contact_fn_btn {
+  float: left;
+}

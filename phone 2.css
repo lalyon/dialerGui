@@ -1,0 +1,41 @@
+/* Style the tab */
+.tab_btn {
+  overflow: hidden;
+  border: 2px solid #fff;
+  padding: 2px;
+  background-color: #fff;
+}
+
+#telephone_number {
+  width: 350px;
+  padding: 15px;
+  float: left;
+  font-size: 22px;
+}
+
+.txt {
+  position: relative;
+  float: left;
+  border-radius: 25px;
+  border: 16px solid #fff;
+  padding: 36px;
+  font-size: 30px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
+
+.dialer_fn_btn {
+  position: relative;
+  float: left;
+  border-radius: 25px;
+  border: 16px solid #fff;
+  padding: 36px;
+  font-size: 30px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
+
+.num_row {
+min-width: 800px;
+ overflow: hidden;
+}
