@@ -1,19 +1,19 @@
 /* Style the tab */
 .tab_btn {
-  width: 33%;
-  background-color: #555;
+  width: 200px;
+  background-color: #444;
 color: white;
 float: left;
-border: none;
-outline: none;
+border: 5px;
 cursor: pointer;
-padding: 14px 16px;
+padding: 14px 4px;
 font-size: 17px;
 }
 
 .tab_bar{
   overflow: hidden;
-
+  width: 100%;
+  background-color: #fff;
 }
 
 #telephone_number {
